@@ -1,0 +1,27 @@
+<rss version="2.0">
+<channel>
+<title>Hunters lodge kitchen</title>
+<link>https://lukarosic24.github.io/hunterslodge/index.html</link>
+<description>Hrana sa atmosferom lova</description>
+<item>
+<title>Specijaliteti</title>
+<link>https://lukarosic24.github.io/hunterslodge/specijaliteti.html</link>
+<description>Pogledajte nase specijalitete</description>
+</item>
+<item>
+<title>Specijaliteti</title>
+<link>https://lukarosic24.github.io/hunterslodge/rezervacija.html</link>
+<description>Rezervisite mesto kod nas</description>
+</item>
+<item>
+<title>Specijaliteti</title>
+<link>https://lukarosic24.github.io/hunterslodge/onama.html</link>
+<description>Informacija o restoranu i njegovom osnivacu</description>
+</item>
+<item>
+<title>Specijaliteti</title>
+<link>https://lukarosic24.github.io/hunterslodge/autor.html</link>
+<description>Informacije o autoru sajta</description>
+</item>
+</channel>
+</rss>
